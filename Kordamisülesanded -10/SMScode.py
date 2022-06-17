@@ -3,10 +3,10 @@ import requests as r
 import json
 
 # Kõik vajalik saatmiseks ning saamiseks.
-service_plan_id = "b6ff9fe4021147fbb1a87647764cf50f" #Sisesta enda service id.#
-access_token = "e15ad7d6fd5f4d3cb76938643e29edb7" #Sisesta enda access token#
+service_plan_id = "BLANK" #Sisesta enda service id.#
+access_token = "BLANK" #Sisesta enda access token#
 from_ = "447520652179" #Sisesta enda sinch.com number.#
-to_ = "37256946313" #Sisesta enda telefoni number kirja saamiseks.#
+to_ = "BLANK" #Sisesta enda telefoni number kirja saamiseks.#
 
 # Headerid authorizationiks.
 headers = {
