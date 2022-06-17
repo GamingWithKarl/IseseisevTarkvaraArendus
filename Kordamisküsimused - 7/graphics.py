@@ -26,3 +26,14 @@ name.pack()
 
 #Ekraani loop (et midagi ekraanile kuvataks)
 screen.mainloop()
+
+
+#Dokumentatsioon
+
+#Mida programm teeb?
+#Programm kuvab ekraanile tkinteri abiga teksti koos nupuga, kuhu kasutaja peab klickima, samuti ka koht, kuhu saab ise asju sisse kirjutada.
+#Seda koodi saab ka muuta ning luua väga erinevaid programmide menüüsid lihtsaks kasutamiseks.
+
+#Mida võiks edasi arendada?
+#Oma menuu suhtes saaks väga palju erinevaid asju teha (nt lisada taustapilt, nupud mängude jaoks nt, registeerimisalad ja palju muud).
+#Tkinteri abiga on see vähemalt lihtne ning ei võta väga kaua aega. 

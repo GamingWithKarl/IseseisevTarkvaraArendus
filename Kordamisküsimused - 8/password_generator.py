@@ -21,3 +21,13 @@ while 1:
             password_char = random.choice(chars) #Võtab suvalise characteri listist.
             password = password + password_char #Parool pantakse stringi.
         print("Here is your password: ", password) #Kuvatakse parool ekraanile.
+
+#Dokumentatsioon.
+
+#Mis on kasutusala?
+#Kasutusalaks on turvaliste paroolide tegemine. See on sisse ka ühendatud näiteks Google Chrome'i, mis ise genereerib parooli ja salvestab selle sinu google'i kontole.
+#See on palju turvalisem, kui igat parooli igas kohas kasutada.
+#Samuti on see ka väga mugav kasutajale.
+
+#Mida saaks edasi arendada?
+# Lisada saaks rohkem erinevaid charactere, et oleks veel raskem paroole kätte saada.

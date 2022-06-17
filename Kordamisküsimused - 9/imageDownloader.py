@@ -33,3 +33,12 @@ while 1:
     image_url = input(str("Image url: "))
     download_files(image_url)
     print("")
+
+# Dokumentatsioon
+
+#Programmi kasutatakse tavaliselt piltide alla laadimiseks. Koodiga on hea viis masiivselt pilte alla laadida.
+#Erilist pointi koodil aga pole, kuna paljudel operatsioonisüsteemidel on piltide allalaadimine sisse ehitatud (ka browseritel näiteks).
+
+#Mida kood teeb?
+#Kood võtab kasutaja url'i ning vaatab, kas url'i sees on kas .png, .jpg või muu pildisalvestul laiend.
+#Kui see on olemas, siis requests library laeb selle ilusti alla. Koodi sees on ka chuck_size changer (niiet saad kas aeglustada või kiirendada salvestamist (mida suurem on, seda paremat arvutit vaja on.)
