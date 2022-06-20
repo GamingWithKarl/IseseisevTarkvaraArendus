@@ -5,7 +5,7 @@ import json
 # Kõik vajalik saatmiseks ning saamiseks.
 service_plan_id = "BLANK" #Sisesta enda service id.#
 access_token = "BLANK" #Sisesta enda access token#
-from_ = "447520652179" #Sisesta enda sinch.com number.#
+from_ = "BLANK" #Sisesta enda sinch.com number.#
 to_ = "BLANK" #Sisesta enda telefoni number kirja saamiseks.#
 
 # Headerid authorizationiks.
